@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116884861357",
+    "project_id": "bnja-f4d5d",
+    "storage_bucket": "bnja-f4d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116884861357:android:22d67d473d596dd23e3124",
+        "android_client_info": {
+          "package_name": "com.example.bnja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116884861357-50amgfqokua48lku5r1sdfnm7nluppra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_KjFg2vPUlgR_mCVw17YvDRTKrrdVew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116884861357-50amgfqokua48lku5r1sdfnm7nluppra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
